@@ -7,8 +7,7 @@ public class TestPeople {
         jimmy = new Boy();
         betty = new Girl("Betty");
 
-        // Boy b = new Person();  // Throw Error
-        // Girl g = new Person()  // Throw Error
+
         System.out.println(aPerson);
         System.out.println(aPerson.talk());
         System.out.println(aPerson.walk());
